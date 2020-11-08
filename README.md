@@ -2,15 +2,16 @@
 
 Start the process for a CSV with fixed use case of job title look up:
 
-python main.py jobads 
+Python main.py ./jobads/jobads.csv
 
-The second argument is the input file. The input file is a CSV file which contains the job ads, one by one. 
+The argument is for the input file. The input file is a CSV file which contains the job ads, one by one. 
 
 ./jobads/jobads.csv are jobads coming with the exercise. This might be the input file.
 
-./jobs/jobs.csv is the job title database (uncleaned).
+./jobs/jobs.csv is the job title database (uncleaned). TODO: Clean-up and preparation.
 
-NO OTHER ARGUMENTS SUPPORTED.
-NO OTHER FILE FORMATS SUPPORTED.
+TODO: Change fuzzy search method
+
+V0.1: NO OTHER FILE FORMATS SUPPORTED.
 
 
