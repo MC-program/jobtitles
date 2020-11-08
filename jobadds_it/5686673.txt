@@ -1,0 +1,34 @@
+Unser Kunde ist ein internationaler IT-Dienstleister & Service Partner mit Kunden in unterschiedlichen Branchen.
+Aufgrund der Projektauftragslage suchen wir zum ehest möglichen Zeitpunkt für ein 4-monatiges Projekt einen Projekt-Mitarbeiter, alternativ auch einen Freelancer. Dienstort wäre Deutschland, remote Tätigkeit ist in geringem Ausmass möglich.
+Wenn Sie sich für diese Position als Freelancer bewerben wollen, bitten wir Sie um Angabe Ihres Tagsatzes sowohl für Vorort-Projekte als auch für Remote-Einsätze.
+Wir suchen zum sofortigen Eintritt bei unserem Kunden
+SIEM-Experte (m/w/d)
+für ein Security Projekt
+Frankfurt am Main Freelancer Job-ID: 6508
+Ihre neue Herausforderung
+Weiterentwicklung des Security-Incident- und Event-Managements auf Infrastrukturebene in Form von Vorgaben für den IT Dienstleister
+Konzeptionelle Weiterentwicklung des Security-Incident- und EventManagements für die Anwendungsebene (exkl. technisches Aufsetzen des SIEM-Systems Splunk)
+Unterstützung und Beratung bei der Durchführung von Bedrohungsanalysen und Ableitung der erforderlichen Protokollierung und Protokoll-Auswertung
+Optimierung, Fortschreibung und Entwicklung neuer SIEM Usecases (Konzeptionell, sowie die Entwicklung in Splunk)
+Erstellen von Vorgaben für die SIEM-Überwachung durch Dienstleister (Netze, Datenbanken, Middleware, Betriebssysteme)
+Mitarbeit bei der Ausgestaltung der SOC-Aktivitäten
+Abstimmung mit dem IT-Dienstleister.
+Ihre Kompetenzen
+Mehrjährige Berufserfahrung im Aufbau und Betrieb eines SIEM, insbesondre bei der Anbindung von Protokolldateien und Erstellung von UseCases.
+Gute Kenntnisse von einschlägigen Sicherheitsstandards wie ISO 27001, 27002, BSI Grundschutz o.ä.
+Kenntnisse regulatorischer Anforderungen aus BAIT und MaRISK
+Gute Kenntnisse und Erfahrung mit Produkten führender Hersteller im Bereich Logdaten und SIEM, insbesondere Splunk
+Hohe analytische/ konzeptionelle Fähigkeiten
+Hohe Eigeninitiative und Selbstständigkeit
+Projekthaftes Arbeiten und Denken
+Unser Angebot
+Bruttojahresgehalt gemäß Kollektivvertrag mind.:
+EUR 42.000
+Abhängig von Ausbildung, Qualifikation & Erfahrung ist eine deutliche Überzahlung möglich.
+Im Sinne des Gleichbehandlungsgesetzes wenden wir uns gleichermaßen an Damen und Herren.
+Ihr Ansprechpartner
+Christoph Steinwander
+Recruiting Consultant
+christoph.steinwander@vace.at
+0664 6159133
+www.vace.at/ds

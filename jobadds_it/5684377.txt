@@ -1,0 +1,33 @@
+Wir suchen dich
+Backend Test Engineer (m/w/d)
+ab sofort • Vollzeit • Wien oder Wels (OÖ)
+Liebe Bewerber/innen,
+um auch in dieser herausfordernden, aktuellen Situation kein wertvolles Talent wie dich zu verlieren, haben wir unseren Bewerbungsprozess für dich angepasst. Solltest du genauso flexibel sein wie wir, würden wir uns freuen, dich in einem ersten Gespräch per Videocall kennenlernen zu dürfen. Über die weiteren Steps informieren wir dich gerne im Gespräch.
+Wir als xxxldigital Team arbeiten gemeinsam an der Zukunft des Möbelhandels. Dabei arbeiten wir nicht nur in Teams, sondern leben sie auch - den Zusammenhalt, das Gefühl, das Lernen. Wir bringen unsere Ideen ein und gestalten proaktiv die Zukunft - und das auf allen digitalen Touchpoints. Wir sind begeistert und ständig auf der Suche nach neuen Lösungswegen. Dafür suchen wir Gleichgesinnte, die diesen Weg mit uns gehen wollen und bereit sind sich neuen Herausforderungen zu stellen.
+Deine Aufgaben:
+Erstellung, Erweiterung und Wartung von automatisierten Tests
+Review von Anforderungen
+Erstellung von Testkonzepten bis zur Testspezifikation
+Operative Durchführung von Tests in Zusammenarbeit mit unseren Scrum-Teams
+Aufsetzen von automatisierten und strukturierten Testverfahren
+Kommunikation und enge Abstimmung mit Agenturen und dem Projektteam bezüglich Testfortschritt und möglicher Fehlerkorrekturen
+Verantwortung für die Überprüfung und Freigabe von Softwareentwicklungen
+Deine Qualifikationen:
+Verständnis der IT-Infrastruktur und der Abläufe im Produkt-Entwicklungsprozess
+Jira und Confluence Toolkit ist bekannt
+"ISTQB Certified Tester" Zertifizierung erwünscht
+Agiles Mindset und Affinität für Service Oriented Architecture
+Programmierkenntnisse in Java/Javascript von Vorteil
+Hohes Maß an Eigenverantwortung und Qualitätsbewusstsein sowie offene und kommunikative Persönlichkeit und Freude an Teamarbeit
+Was bieten wir dir?
+Ein abwechslungsreiches Aufgabengebiet mit viel Raum für eigene Ideen
+Eine umfassende Einschulung sowie individuelle Weiterbildungsmöglichkeiten
+Ein familiäres Umfeld mit flachen Hierarchien und kurzen Kommunikationswegen
+Eine hochwertige IT-Ausrüstung (Mac oder Windows)
+Weitere zahlreiche Benefits: Flexible Arbeitszeiten, hochmodernes Büro mit Chillout-Area, Teamevents und vieles mehr
+Bewirb dich jetzt
+karriere.xxxlutz.at
+Bewirb dich einfach mit deinem Lebenslauf über unser Online-Portal.
+Ein Motivationsschreiben und aktuelle Zeugnisse runden deine Unterlagen ab.
+Wir freuen uns auf deine Bewerbung!
+Das Mindestgehalt für diese Position beträgt EUR 2.800,00 brutto (Vollzeit) - Bereitschaft zur Überzahlung bei entsprechender Qualifikation/Berufserfahrung natürlich vorhanden. Im persönlichen Gespräch vereinbaren wir individuell Ihr tatsächliches Gehalt!

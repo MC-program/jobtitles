@@ -1,0 +1,51 @@
+C#/HTML5 Full Stack Web Entwickler für SaaS App portatour.com (m/w/d)
+Arbeitsort:
+Vienna Twin Tower, südliches Wien
+Vollzeit:
+38,5 Wochenstunden
+***NEWS*** Wir sind trotz Corona-Krise im Recruiting-Prozess!
+Innovation. Neugier. Sinnhaftigkeit. Unsere Web-App portatour(R) berechnet per Knopfdruck vollautomatisch optimierte Tourenpläne für Personen im Außendienst - somit ist Schluss mit langer Planung während der Arbeitszeit oder sogar Freizeit. Die Ergebnisse sind: mehr Kundenbesuche mit weniger Planungsaufwand, weniger gefahrene Kilometer und weniger CO2-Emissionen. Weltweit verwenden jeden Tag tausende einzelne Handelsvertreter und internationale Unternehmen, wie Samsung, Johnson & Johnson und Würth, unser Produkt in 6 Sprachen.
+portatour(R) ist spannende Technologie: eine Lösung für das kniffelige "Travelling Salesman Problem", realisiert als Cloud-Service, mit hoch-parallelisierten Algorithmen, auf Spezialhardware, betrieben in einem lastverteilten Server-Array, benutzt auf Smartphone, Tablet und Notebook.
+Wir sind mittlerweile über 30 erfahrene, hochmotivierte MitarbeiterInnen auf internationalem Niveau und wachsen weiter, weil immer mehr glückliche BenutzerInnen portatour(R) verwenden.
+Deine Aufgaben
+Als Softwareentwickler entwickelst du portatour(R) weiter. Deine Aufgabe ist die Programmierung des HTML5 / CSS / TypeScript Frontends mit zugehörigem C#-Backend. Gemäß dem "Release early, release often"-Prinzip werden Updates und Releases im Team geplant, spezifiziert und umgesetzt.
+Weiterentwicklung der Web-App portatour(R)
+Design der responsive GUI für Phone / Tablet / Desktop
+Implementierung der GUI in HTML5 / CSS / TypeScript
+Implementierung des MVC in C# / ASP.NET
+Teilweise Pair-Programming
+Automatisierte Tests und Roll-Outs
+Vorbereitende Tätigkeiten für Lokalisierung
+3rd Level Ansprechpartner für unseren Kundensupport
+Unsere Anforderungen
+Abgeschlossene IT-Ausbildung (Uni, FH, HTL)
+Mindestens 2 Jahre Erfahrung in der Programmierung von Web-Applikationen
+Fundierte Kenntnisse in HTML5, CSS, TypeScript
+Von Vorteil: Erfahrung im Design von responsive GUI
+Sicheres Beherrschen objektorientierter Programmierung, bevorzugt in C# / ASP.NET / MVC
+Erfahrung in der Verwendung von Versionskontroll- und Ticket-Systemen
+Ausgezeichnetes Deutsch und Englisch
+Qualitätsbewusstsein, Genauigkeit sowie Teamfähigkeit
+Wir bieten dir
+Kein Stress mit Deadlines: wir releasen, wenn die Qualität passt
+Kein Stress mit Kunden: wir setzen unsere eigenen Prioritäten
+Flache Unternehmenshierarchie ohne Bürokratie-Ballast
+Teamarbeit mit hochqualifizierten Kollegen und Kolleginnen
+Nachhaltige, langfristige Zusammenarbeit
+Profitables und stabiles Unternehmen seit 2007 mit Startup-Mindset
+Dein Gehalt
+Das jährliche Grundgehalt beträgt je nach Qualifikation und Erfahrung zwischen 42.000 EUR und 60.000 EUR bei Vollzeit. Darüber hinaus folgt eine Unternehmenserfolgsprämie, mit der du am Wachstum unseres Unternehmens partizipierst.
+Das erwartet dich am Arbeitsplatz
+Wir gehen gut miteinander um, sprechen auf Augenhöhe, schätzen eigene Ideen wert und haben Freiraum für Diskussionen. Wir mögen open doors, zugleich respektieren wir den Wunsch nach Konzentration. Unsere IT funktioniert. Unser gemeinsamer Arbeitsort ist das Büro. Freizeit ist Freizeit. Wir haben im 14. Stock einen himmlischen Blick auf Wien. Dresscode gibt es keinen. Kaffee, Tee, Club Mate, Flora Power Mate und Obst gibt es immer und Tischtennis auch.
+Bewirb dich
+jetzt mit Lebenslauf und Motivationsschreiben!
+In Zeiten von Corona und Ausgangssperre findet das Erstgespräch via Telefon bzw. Skype statt.
+BEWEBUNG SENDEN
+Bettina Pichler, MA
+portatour(R) HR Management
+Vienna Twin Tower
+Wienerbergstraße 11/B14
+1100 Wien
++43 1 2531516-36
+jobs@portatour.com
+www.portatour.com

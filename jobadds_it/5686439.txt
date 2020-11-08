@@ -1,0 +1,70 @@
+Deadline 15 May 2020
+APPLY
+Full-time (40 hours per week)
+MS SharePoint and Windows Systems Administrator
+INFORMATION AND COMMUNICATION TECHNOLOGIES DEPARTMENT (ICT)
+Vacancy 06/2020 - Reporting to the Head of ICT, the incumbent will be part of a two-person Windows Administration team within the larger team of IT support professionals.
+BACKGROUND
+The MS Windows Systems Administrator is responsible for the provisioning, installation and configuration, operations and maintenance of all Microsoft services to include SharePoint, MS Windows servers, hardware, software and related infrastructure supporting the IIASA staff of approximately 500 people.
+MAIN DUTIES AND RESPONSIBILITIES
+Serve as the primary MS Office 356 administrator (i.e. SharePoint, MS Teams, SPO and MS application management) ensuring the proper configuration and administration of all SharePoint site collections as well as other related Office 365 services
+Provide in-house solutions consulting to help users determine requirements and engineer the Microsoft Windows-related solutions to meet these requirements
+Perform MS Windows Systems Administration functions to include the installation of servers, systems software and user software, configure server hardware, peripherals, services, settings, directories, storage, and user account administration
+Perform system monitoring, verifying the integrity and availability of all hardware, server resources, systems and key processes, reviewing system and application logs, and verifying completion of scheduled jobs such as backups
+Apply OS patches and upgrades on a regular basis, and upgrade administrative tools and utilities. Configure and add new services as necessary
+Provide First and Second Level Help Desk support and troubleshooting for all MS Windows hardware to include (but not limited to) servers, software, desktop and laptop computers
+Research and recommend innovative, and where possible automated approaches for system administration tasks.
+REQUIRED SKILLS
+Extensive hands-on work experience and knowledge of the function and administration of MS SharePoint and Office 365 based services
+Experience in MS Windows Systems administration, specifically with Windows Server 2008R2 and newer
+Experience in Active Directory operation and management (user management, machine management, group policies, identity management, etc.)
+Basic knowledge of Microsoft Azure Active Directory administration
+Fluency in Exchange 2013/2016 operation and management (mailbox management and maintenance, security handling)
+Experience with Windows PowerShell scripting and programming
+Experience in Virtual Desktop Environments (Server Farms, HA, Thin Clients)
+Knowledge of Microsoft Update Services (WSUS) and System Center Configuration Manager (SCCM)
+Knowledge of centralized managed environments
+MSCA or MSCE Certifications are beneficial
+Fluent in both spoken and written English
+Fluency in German is beneficial.
+APPOINTMENT TERMS
+The successful candidate will be expected to take up the position as soon as possible, and will initially be offered a fulltime (40 hours per week), fixed-term contract for one year with the possibility for extension to an open-ended contract thereafter.
+This position is classified as a ''Professional level'' post.
+We offer:
+A competitive salary which is exempt from taxation in the host country of Austria (subject to the principle of income aggregation)
+Educational subsidies for children of school age enrolled in private schools in Austria
+A generous annual leave allowance
+Tax free shopping privileges
+Moving and settlement allowances and paid home leave for employees in scientific and professional categories hired from international locations (rules apply)
+Assistance for newcomers to Austria with visa, work and residency permit applications
+Support finding accommodation in Austria
+Occupational health services free for employees
+Non-contributory group accident insurance coverage.
+For additional information about working at IIASA, please click
+here
+.
+Working At Iiasa
+IIASA is committed to a working environment that promotes equality, diversity, tolerance and inclusion within its workforce, and encourages qualified candidates from all religious, ethnic and social backgrounds to apply. In the case that candidates are equally qualified, preference will be given to applicants from countries where IIASA has a
+National Member Organization
+(NMO).
+Further Information
+For further information about IIASA, please visit
+www.iiasa.ac.at
+For further information about this opportunity please
+contact:
+Joe Undercoffer
+, Head of ICT
+or
+Alia Harrison
+, Recruitment Coordinator
+Name: Alia Harrison
+Function: Recruitment Coordinator
+Email:
+harrison@iiasa.ac.at
+Applications
+In order to apply for this opportunity, you will need to provide the following documents:
+A cover letter outlining your motivation for and fit to the position
+Your Curriculum Vitae
+The names, addresses (including e-mail), and telephone numbers of three work-related reference givers
+Deadline for receipt of applications: 15 May 2020
+APPLY

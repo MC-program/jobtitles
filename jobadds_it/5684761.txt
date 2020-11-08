@@ -1,0 +1,39 @@
+Für unsere Standorte in Wien oder Graz suchen wir eine/n
+Junior DevOps Engineer (m/w)
+Als Junior DevOps Engineer arbeiten Sie direkt an unserer Open-Source basierten Infrastruktur in enger Zusammenarbeit mit unseren hoch qualifizierten Engineering-Teams und Service Delivery Managern. Zusätzlich zur Betreuung unserer Systeme, arbeiten Sie auch aktiv an der Weiterentwicklung unserer Softwareplattform, welche unsere Business-Prozesse direkt unterstützt.
+Ihre Aufgaben
+Linux Serveradministration
+Entwicklung und Anpassung von Scripts, Applikationen, Schnittstellen und Tools
+Bearbeitung und Lösung von Incidents und Problemen
+Routine-Wartungsarbeiten wie Updates und Patching
+Automatisierung und Orchestrierung
+Betreuung unseres Monitoring-Systems inklusive Entwicklung von Custom Checks
+Ihr Profil
+Erfahrung in der Linux-Serveradministration (z.B. Ubuntu, CentOS):
+Server-Administration
+Fortgeschrittene CLI-Kenntnisse
+Erfahrung mit Bash-Scripting
+Programmierkenntnisse
+Erweiterte Kenntnisse in zumindest einer der folgenden Programmiersprachen: Python, JavaScript
+Bereitschaft, andere Programmiersprachen nach Bedarf zu erlernen
+Erfahrung mit REST und SOAP-APIs
+Erfahrung mit Source Code Repositories (z.B. GIT)
+SW Lifecycle Management
+Abgeschlossene technische Ausbildung und (erste) Erfahrungen in der Softwareentwicklung und/oder Systemadministration
+Gute Englischkenntnisse in Wort und Schrift
+Idealerweise verfügen Sie zusätzlich über Erfahrung mit:
+System-Automatisierung (z.B. Puppet/Ansible, Rundeck/Stackstorm, Gitlab CI)
+Monitoring-Systemen (e.g. Nagios, Icinga)
+Wir bieten
+Eine abwechslungsreiche, interessante Aufgabe in einem innovativen, führenden, international tätigen IT-Unternehmen.
+Attraktives, leistungsorientiertes Gehaltsmodell (IT KV ST1, bei entsprechender Qualifikation ist selbstverständlich eine Überzahlung möglich)
+Flexible Arbeitszeit
+Unternehmensinterne Weiterbildungen und Entwicklungsmöglichkeiten
+Mitarbeiterevents im Sommer und Winter
+ANOVIS IT-SERVICES AND TRADING GMBH, Rennweg 97-99, 1030 Wien
+Schriftliche Bewerbungen (bevorzugt per E-Mail) an
+&colonjobs@anovis.com
+, bzw. an unsere Wiener Büroanschrift.
+Ihr Ansprechpartner: Florian Kattinger
+Web:
+http://www.anovis.com

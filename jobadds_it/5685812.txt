@@ -1,0 +1,21 @@
+Entwickler für vTiger CRM (m/w) - full-stack developer backend/database
+Die schlaustrom GmbH ist ein privater Energielieferant und Wegbereiter der Energiewende (Photovoltaik, Elektromobilität, usw.). Unsere gesamte CRM/ERP Suite basiert auf vTiger CRM und wurde in den letzten Jahren zu einer hoch-automatisierten, spezifischen Lösung in der Energiewirtschaft entwickelt.
+Wir bilden darin u.a. ab:
+Kundenverwaltung
+Rechnungslegung (Teilbetragsvorschreibung, Jahresabrechnung, Mahnung, spezifische Gutschriften, Debitorenkonto…)
+Provisionsabrechnung an die Vertriebspartner und deren Administration
+sämtliche relevante energiewirtschaftliche Prozesse (Lieferantenwechsel, An-Abmeldung, Änderungs- und Datenaustauschprozesse…) Kommunikation mit der Plattform energy-link und Ponton
+Newsletterversand, Automails (im Zuge gewisser Prozessschritte)
+Diese wichtige Funktion war bisher ausgelagert, soll aber ins Unternehmen integriert werden.
+Aktuell wurde auf PHP7 umgestellt.
+Ihre Aufgaben
+Pflege des Code-Bestands in Repositories, laufende Weiterentwicklungen und Fehlerbehebung und Weiterentwicklungen im o.a. Sinne und deren Dokumentation in Abstimmung mit unserem EDV- und Netzwerkadministrator. Schwerpunkt auf Backend und Datenbank.
+Voraussetzungen
+Sehr gute Kenntnisse in vTiger CRM, php, mysql; Kenntnisse in Javascript erwünscht; Linux versteht sich von selbst. Dabei ist es für uns zweitrangig, ob Sie diese Kenntnisse durch HTL, Studium oder in Eigenregie erworben haben, wichtig ist, dass Sie es beherrschen. Daher sind einige Jahre Erfahrung mit vTiger unbedingte Voraussetzung. Gutes Deutsch in Wort und Schrift, Leistungsbereitschaft und die Bereitschaft zum ständigen Dazulernen setzen wir voraus. Die Fähigkeit über den Tellerrand hinaus zu blicken, beziehungsweise Zusammenhänge zu verstehen und damit ein technisches Allgemeinverständnis sind hochgradig erwünscht.
+Arbeitsumfeld
+Unser Unternehmen ist mit derzeit ca. 20 Mitarbeitern flach und familiär strukturiert. Sie sind, so wie der EDV/Netzwerkadministrator, direkt dem Geschäftsführer unterstellt und arbeiten mit beiden eng zusammen.
+Dienstort ist Linz/Leonding. Es ist jedoch auch möglich, teilweise auf Wunsch von zu Hause aus zu arbeiten (Homeoffice). Das Tätigkeitsgebiet bringt mit sich, dass auch zeitflexibel gearbeitet werden muss. Bereitschaft dazu ist eine unbedingte Voraussetzung.
+Das monatliche Bruttogehalt liegt bei EUR 4.500,- (14 mal); abhängig von Ihren Erfahrungen und Kenntnissen besteht eine Bereitschaft zur Überzahlung.
+Wir richten uns an fachlich geeignete Damen und Herren gleichermaßen.
+Ihre schriftliche Bewerbung senden Sie bitte per E-Mail an:
+bewerbung@schlaustrom.at

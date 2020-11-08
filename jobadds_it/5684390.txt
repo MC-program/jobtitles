@@ -1,0 +1,31 @@
+Als starker Innovationspartner legt NETCONOMY den Fokus auf die Gestaltung der perfekten Customer Experience. Basierend auf der vollintegrierten SAP(R) Customer Experience Suite, schaffen wir einzigartige Kundenerlebnisse für alle Anforderungen des digitalen Business. Unser Fokus liegt in der Auseinandersetzung mit der digitalen Zukunft und in der Entwicklung von Strategien, um die Geschäftsmodelle unserer Kunden in die digitale Welt zu übertragen.
+React Developer (m/f/d)
+Location: Graz oder Wien
+DEINE AUFGABEN
+Du implementierst state-of-the-art Lösungen mit React
+Du hilfst mit Browser- und Performance-Optimierung
+Du konzentrierst dich auf Usability und UX
+Du implementierst responsive Designs und gewährleistest Cross-Browser-Kompatibilität
+Du evaluierst und führst innovative Frontend-Technologien ein
+Du arbeitest mit Technologien wie React, Redux, GraphQL, Typescript, Node.js, SASS
+DEINE SKILLS
+Du hast fundierte Kenntnisse in React und Redux
+Du findest Konzepte wie Server Side Rendering und Progressive Web Apps logisch
+Dein JavaScript / ES6 Know-how ist solide
+Du kennst dich mit den unterschiedlichen Webbrowsern und deren Kompatibilitätsproblemen aus
+Der Umgang mit modernen Entwicklungstools ist für dich alltäglich
+Du bringt praktische Erfahrung mit Accessibility und Usability mit
+Deine TypeScript-Kenntnisse sind ein Vorteil aber nicht Voraussetzung
+UNSER ANGEBOT
+Mitarbeit in einem dynamischen Unternehmen mit außergewöhnlichem Teamspirit
+Flexible Arbeitszeiten und agile Arbeitsmethoden
+Benefits wie Top-Equipment und kontinuierliche Weiterentwicklung
+Kaffee, Obst, Frühstück und Eis für alle
+Kreatives Arbeitsklima dank internationalem und vielfältigem Team
+Hinweis gemäß §9 Abs. 2 GlBG: Das Mindest-Grundgehalt laut IT-KV beträgt EUR 2.518,00 brutto/ Monat bei Vollzeitbeschäftigung. Das tatsächliche Gehalt ergibt sich in Abhängigkeit deiner Ausbildung, Qualifikation und Erfahrung.
+NETCONOMY -
+netconomy.net
+Unser Recruitingteam freut sich auf deine
+Bewerbung
+!
+Hinweis: Der gesamte Recruitingprozess wird remote durchgeführt und das Startdatum legen wir in Abstimmung mit dir fest.

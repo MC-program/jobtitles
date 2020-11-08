@@ -1,0 +1,47 @@
+Are you
+passionate
+about delivering
+state-of-the-art solutions
+?
+Join us!
+Wir möchten investieren.
+In Deine Zukunft.
+Wer wir sind, fragst Du Dich?
+Agfa HealthCare in der Geschäftsstelle
+Wien
+.
+Wen wir suchen?
+Mitarbeiter mit Leidenschaft, fachlicher Kompetenz und dem Bedürfnis, Teil von etwas Großem zu sein. Bei uns übernimmt jeder einzelne Mitarbeiter Verantwortung und leistet seinen Beitrag zum bestehenden Erfolg.
+Je mehr wir unsere Mitarbeiter fördern und fordern, desto mehr erreichen wir als Gesamtunternehmen. Bei uns wirst Du individuell begleitet und entwickelt, so dass Du Dein ganzes Potenzial erreichen kannst.
+Das klingt interessant? Dann bewirb Dich als
+Application Developer (m/w/d)
+Job ID: 28630
+Deine Aufgaben:
+Mitarbeit an der Weiterentwicklung unseres Krankenhausinformationssystems ORBIS
+Entwicklung und Wartung von Softwarekomponenten im Bereich ORBIS Anesthesia
+Parametrierung von Formularen zur klinischen Dokumentation
+3rd-Level Support
+Enge Zusammenarbeit mit Entwicklern, Produktmanagern, Beratern und dem Kundensupport
+Du bringst folgendes mit:
+Ausbildung / Studium im Bereich der Informatik ODER entsprechende Berufserfahrung
+Fundierte Programmierkenntnisse im Bereich JAVA
+Gute Kenntnisse im Umgang mit relationalen Datenbanksystemen (Oracle, SQL und PL/SQL)
+Eigeninitiative und selbstständiges Arbeiten nach den Prinzipien der agilen Softwareentwicklung (Scrum, Kanban)
+Von Vorteil sind Kenntnisse in den Bereichen RESTful Webservices, JSON, HTML5, WildFly und JUnint
+Interesse an der Erschließung neuer Themengebiete
+Sehr gute Deutsch- und Englischkenntnisse
+Wir bieten Dir
+eine lockere Startup-Atmosphäre mit der Stabilität eines etablierten internationalen Konzerns im Hintergrund. Bei uns kannst Du deine Ideen eigenständig umsetzen und findest nette Kollegen, die dich gerne unterstützen. Neben einer attraktiven Bezahlung bieten wir zahlreiche Sonderleistungen, sowie flexible Arbeitsmodelle (z.B. Remote Working, Teilzeit, Gleitzeit uvm.). Das Einstiegsgehalt ohne Berufserfahrung beträgt nach dem IT-KV mind. 35.252EUR p.a., eine Überbezahlung je nach Qualifikation/Erfahrung ist selbstverständlich.
+Sei Teil unserer Innovationskraft und gestalte mit uns die Zukunft!
+Werde Teil unserer Innovationskraft und gestalte mit uns die Zukunft!
+Bist Du interessiert?
+- Dann freuen wir uns auf Deine aussagekräftige
+Online-Bewerbung
+, vorzugsweise unter Angabe des Gehaltswunsches und des frühesten Eintrittstermins.
+Agfa HealthCare GmbH
+Human Resources
+Diefenbachgasse 35
+A-1150 Wien
+http://global.agfahealthcare.com/dach/jobs
+Agfa HealthCare
+ist führend im rasch wachsenden Markt der integrierten IT-Systeme, welche Gesundheitseinrichtungen einen nahtlosen Informationsfluss sowie eine 360°-Sicht auf die Patientenbehandlung gewähren. Das Unternehmen verfolgt eine einzigartige, ganzheitliche Vorgehensweise, die es ermöglicht, voll integrierte Lösungen für alle Klinikverfahren zu bieten. ORBIS, das Klinik-Informationssystem von Agfa HealthCare, integriert alle in Gesundheitseinrichtungen entstehenden, administrativen und klinischen Daten und kann dadurch die besonderen Bedürfnisse des medizinischen und pflegerischen Fachpersonals abdecken.

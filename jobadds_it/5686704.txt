@@ -1,0 +1,35 @@
+Wir sind Österreichs größte Research and Technology Organisation und führend in der angewandten Forschung für innovative Infrastrukturlösungen. Das macht uns zum leistungsstarken Entwicklungspartner der Industrie und zum Top-Arbeitgeber in der internationalen Wissenschaftsszene. Unsere Tochtergesellschaft,
+LKR Leichtmetallkompetenzzentrum Ranshofen
+, sucht weitere Ingenious Partner für den Standort Ranshofen.
+Softwareentwickler (m/w/d) Industrie 4.0 in der Leichtmetallforschung
+IMAGINE
+Das 50-köpfige, internationale Team aus den Fachbereichen Metallkunde und Maschinenbau ist führend in der Entwicklung von hochwertigen Leichtmetalllegierungen, nachhaltigen Verarbeitungsprozessen sowie funktional integrierten Leichtbaukomponenten.
+Als Teil unseres Teams, entwickeln Sie eine Softwareplattform zum Sammeln, Speichern und Auswerten von Daten aus unterschiedlichen Prozessen und Signalquellen (semi-industrielle Produktionsanlagen, mech. Prüfmaschine, …).
+ENGAGE
+Sie entwerfen und implementieren eine Softwareplattform um einfach und flexibel von bestehenden und zukünftigen Anlagen Daten sammeln zu können bzw. weiteren Analysen zuführen zu können.
+Sie bauen Schnittstellen zur Bereitstellung von Daten für unterschiedliche Simulationsprogramme, Programme zur statistischen Analyse, etc. auf.
+Sie kümmern sich um die kontinuierliche Wartung der Plattform.
+Sie arbeiten eng mit Forschungspartnern aus dem Bereich der Datenanalyse zusammen.
+ACHIEVE
+Sie entwickeln ein funktionsfähiges System für die Datenerfassung und das Datenmanagement im Bereich Leichtmetallforschung.
+Sie unterstützen das Team bei der Lösung von wichtigen Forschungsfragen über den Zusammenhang zwischen Werkstoff- und Prozessdaten und der Produktqualität.
+Gemeinsam mit dem Team entwickeln Sie neue Modelle zur Prozessoptimierung und Vorhersage der Werkstoffeigenschaften.
+Als
+Ingenious Partner*
+zeichnet Sie aus:
+Abgeschlossene Ausbildung in Informatik, Mechatronik (HTL oder BSc. - Uni / FH)
+Mehrere Jahre Berufserfahrung im Bereich Softwareentwicklung
+Fundierte Programmierkenntnisse in Java oder C#, Python von Vorteil
+Erfahrung mit Continuous Integration
+Technologiekenntnisse in Data Engineering (gerne führen wir Sie in diese Themenfeldern ein)
+Erfahrung mit relevanten Schnittstellen und Protokollen (OPCUa, MQTT, …), Datenmanagement (Message Broker, Time Series Datenbanken, Cloud-Dienste wie Azure oder AWS …) und Datenauswertung
+Grundkenntnisse Machine Learning
+Interesse und Begeisterung für Forschung und abwechslungsreiche Aufgabenfelder
+Hohe Einsatzbereitschaft und Teamfähigkeit
+Gute Englisch- und Deutschkenntnisse in Wort & Schrift
+Was Sie erwarten können:
+Das Bruttojahresgehalt gemäß Kollektivvertrag beträgt EUR 47.348,--. Das aktuelle Gehalt wird entsprechend Ihren Qualifikationen und Erfahrungen individuell festgelegt. Darüber hinaus bieten wir neben zahlreichen Benefits flexible Arbeitsbedingungen, individuelle Weiterbildungs- und Karrieremöglichkeiten in einem hochinnovativen Umfeld.
+Am AIT ist uns die Förderung von Frauen wichtig - deshalb freuen wir uns besonders auf Bewerbungen von Kandidatinnen!
+TOMORROW TODAY - WITH YOU?
+Bitte schicken Sie uns Ihre ausführlichen Bewerbungsunterlagen bestehend aus Lebenslauf, Anschreiben und Zeugnissen online unter:
+https://jobs.ait.ac.at/Job/128646

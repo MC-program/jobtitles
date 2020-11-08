@@ -1,0 +1,32 @@
+Als dynamische IT-Unit ist die SPAR ICS für alle IT-Belange in der gesamten SPAR Österreich-Gruppe in acht Ländern und in drei Bereichen - Food Retail, Sports & Fashion und Shoppingcenter - verantwortlich. Die mehr als 400 engagierten Mitarbeiterinnen und Mitarbeiter beschäftigen sich unter anderem mit Themen wie Digital Retail, Data Science, Cloud & Mobile Computing oder IT-Security und sorgen dafür, dass alles perfekt läuft.
+Software Engineer Point of Sales Applications (m/w)
+Dienstort: Salzburg, Wernberg oder St. Pölten
+Ihre Aufgaben:
+Software Entwicklung wahlweise im Frontend, Backend oder Fullstack
+Aktive Mitgestaltung und Weiterentwicklung strategischer Anwendungen im Point of Sales Umfeld für den unternehmensweiten Einsatz mit über 30.000 Anwendern
+Proaktives Einbringen von Verbesserungsvorschlägen und gemeinsames Lösen von Problemstellungen
+Persönliche Weiterentwicklung mit offener Feedback Kultur, Pair Programming und Code Reviews
+Aktive Mitarbeit im End-to-End verantwortlichen Retail DevOps Team, sowohl in der Feature Entwicklung als auch im 3rd Level Support
+Nachhaltige Sicherstellung von Qualität in der Entwicklung
+Kontinuierliche Weiterentwicklung unserer Standards und Prozesse
+Mitarbeit bei internationalen Projekten
+Sie bieten:
+Erfolgreich abgeschlossene Ausbildung im IT-Bereich und/oder mehrjährige Berufserfahrung im relevanten Umfeld
+Erfahrung im Umgang mit gängigen relationalen Datenbanken
+Erfahrung in folgenden Bereichen (von Vorteil): JavaEE, HTML und Javascript, Linux-Kenntnisse, Ansible
+Freude am Teamwork und dem gemeinsamen Lösen von Problemstellungen
+Selbstständigkeit und Proaktivität im täglichen Handeln
+Analytisches Denkvermögen und hohes Qualitätsbewusstsein
+Deutsch und Englisch in Wort und Schrift
+Wir bieten:
+Coole und herausfordernde Aufgaben für ein attraktives Jahres-Gehalt. Für diese Position liegt dieses deutlich über dem Kollektivvertrag, abhängig von deiner Qualifikation und Erfahrung (Junior ab 35.000 EUR; Senior ab 50.000 EUR)
+Lässiger ICS-Spirit mit vielen betrieblichen und privaten Aktivitäten plus erstklassige Firmen-Benefits
+Dienstort: Mehrere Möglichkeiten in Österreich verfügbar (Salzburg, Wernberg, St. Pölten)
+Nicht alle Qualifikationen vorhanden? Kein Problem! Never Stop Learning: Wir haben das passende Ausbildungspaket!
+Wir freuen uns auf Ihre Bewerbung:
+SPAR Österreichische Warenhandels-AG
+Recruiting
+Europastraße 3
+5015 Salzburg
+oder per Mail an:
+apply@spar-ics.com

@@ -1,0 +1,24 @@
+Student Job (f/m/x) - Enterprise Architecture Management (20-25 h/week)
+Modern enterprise architecture is a MUST to achieve superior customer experience. The team "Enterprise Architecture Management" is responsible for providing architectural direction for RBI Group to become the most recommended financial services group. As a team we are part of all larger group wide and local initiatives to transform the IT architecture to modern banking.
+What you can expect:
+You will be part of an international team which designs and maintains the enterprise target architecture (based on reference models and blueprints).
+You will support the Enterprise architecture team to upgrade the group wide architecture tool/repository (ADOIT) to the cloud (AWS) including the linked collaboration platform (Confluence and MS-Teams)
+You will help to provide the strategic technical direction to improve business value in terms of modern IT architecture (application, integration, data) e.g. microservices, real-time streaming, REST API, ODS, Data Lake, DWH, HDSF, Cloud
+Working in a team and within an international community
+What you bring to the table:
+You are an active student with a focus on IT
+You have a solid knowledge of various programming skills, SQL, Java Script, Python, VBA
+Very good Office365 skills (Excel, MS-Teams, Outlook, etc.)
+JIRA, Confluence, MS Power BI skills are a plus
+General IT affinity is highly appreciated
+You like to work in and contribute to a cross-functional team and English is not a problem for you
+You are pro-active, self-motivated, result-oriented, communicative and can work independently
+What we offer:
+Gain practical experience in an international banking environment
+Learn from working with successful banking professionals
+Stay flexible and arrange your weekly working hours to suit your schedule
+Make the most of the benefits we offer such as low-cost, tasty food in our canteen
+Boost the balance of your student bank account: gross monthly salary of EUR 1,957.71 (based on 38,5 hours)
+RBI AG is committed to creating a diverse environment and is proud to be an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ethnicity, race or color, national origin, religion, political or other opinion, gender, sexual orientation or disability.
+We are looking forward to receiving your online application!
+https://jobs.rbinternational.com
