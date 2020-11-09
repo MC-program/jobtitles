@@ -148,10 +148,12 @@ class CDocMyCSV:
                                                  makeLower=True)
 
         ### Load input file to process
-        jobads = file_package.readContentFlat(path="",
-                                              filename=self.inputFile,
-                                              removePunctuation=False,
-                                              makeLower=True)
+        jobads = file_package.readContentByRow(path="",
+                                               filename=self.inputFile,
+                                               removePunctuation=False,
+                                               makeLower=True)
+        #for ad in jobads:
+        #    print(ad)
         #debug(jobtitles)
 
         findings = ""
@@ -186,6 +188,7 @@ class CDocMyCSV:
 
             debug("parseDocument(): best job found in row="+ str(adNr) +","\
                   "(match,pos)=("+matchMax +","+str(posMax)+")")
+            #debug("jobadd = ", ad)
             findings += str(adNr) +"," +matchMax +",\"" +ad +"\",\n"    # 1 line == 1 best match
 
         file_package.writeFile(filename="./jobs_found.csv",content=str(findings))

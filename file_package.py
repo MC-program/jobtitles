@@ -146,6 +146,48 @@ def readContentFlat(path,
     return contentFlat
 
 
+
+
+def readContentByRow(path,
+                    filename,
+                    language   ="",
+                    delimiter  =",",
+                    encoding   ="utf8",
+                    makeLower  =True,
+                    addEnglishContent=False,
+                    removePunctuation=True,
+                    debugOutput=False):
+    """
+    Read-in the file(s) according to readRowsAndCols() and return it as a flat array
+    """
+
+    contentFlat = []
+
+    try:
+
+        rowsCols2 = readRowsAndCols(filename=path+filename,
+                                    removePunctuation=removePunctuation,delimiter=delimiter,
+                                    encoding=encoding, makeLower=makeLower,
+                                    debugOutput=debugOutput) 
+
+        for row in rowsCols2:
+            contentFlat.append("")
+            for col in row:
+                if len(contentFlat[-1]):
+                    contentFlat[-1] += ","
+                contentFlat[-1] += col
+
+    except Exception as e:
+        critical("readContentFlat(): error:", e, "for filename", filename)
+        assert False
+
+    return contentFlat
+
+# Read row by row
+# with open('Book8.csv') as fp:
+# for line in fp:
+    # print line
+
 def writeFile(filename, content):
 
     #with open(self.getXMLPath(), "wb") as f:       # bytes
