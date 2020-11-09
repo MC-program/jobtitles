@@ -156,30 +156,37 @@ class CDocMyCSV:
 
         findings = ""
 
-        #for jobNr,ad in enumerate(jobads[:10]):
-        for jobNr,ad in enumerate(jobads[:]):
+        #for adNr,ad in enumerate(jobads[:10]):
+        for adNr,ad in enumerate(jobads[:]):
 
-            hitMax = 0
-            matchBest = "NOT FOUND,-1"
+            matchMax = ""
+            posMax   = -1
+            hitMax   = 0
 
             for job in jobtitles:
-                results = fuzzySearch(job,ad,50)
+                matches = fuzzySearch2(job,ad,50)       # returns ("matched",position,hitrate)
 
-                matches = [i for i in results]    # Format: 
-                #debug("matches"); debug(matches)
+                matchesArray = [i for i in matches]    # Format: 
+                #if matchesArray:
+                    #debug("matches"); debug(matchesArray)
 
-                for match in matches:
-                    hit = match[2]
+                for match in matchesArray:
+                    hitrate = int(match[2])
                     
-                    if hit>hitMax:
-                        hitMax = hit
-                        matchBest = "\"" +str(match[0]) +"\"," +str(match[1])
-                        #debug(str(jobNr)+". job="+job,"in ad?", match)
-                    #if matched:
-                    #    debug("...ad=",ad)
+                    if hitrate == 100 and hitMax == 100:    # full hit & full hit before?
+                        if len(matchMax) < len(match[0]): # take if longer 
+                            hitMax = hitrate
+                            matchMax = match[0]
+                            posMax = match[1]
 
-            debug("parseDocument(): best job found in row="+ str(jobNr) +", (match,pos)=("+matchBest+")")
-            findings += str(jobNr) +"," +matchBest +",\"" +ad +"\",\n"    # 1 line == 1 best match
+                    if hitrate>hitMax:   # higher hitrate ?
+                        hitMax = hitrate
+                        matchMax = match[0]
+                        posMax = match[1]
+
+            debug("parseDocument(): best job found in row="+ str(adNr) +","\
+                  "(match,pos)=("+matchMax +","+str(posMax)+")")
+            findings += str(adNr) +"," +matchMax +",\"" +ad +"\",\n"    # 1 line == 1 best match
 
         file_package.writeFile(filename="./jobs_found.csv",content=str(findings))
 

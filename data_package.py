@@ -8,6 +8,8 @@ import sys
 import csv
 import re
 
+from fuzzywuzzy import fuzz
+
 from debug_package import *
 
 
@@ -26,16 +28,17 @@ from debug_package import *
 from fuzzysearch import find_near_matches
 from fuzzywuzzy import process
 
-def fuzzySearch(qs, ls, threshold):
-    '''fuzzy matches 'qs' in 'ls' and returns list of 
+def fuzzySearch(strShort, strLong, threshold):
+    '''
+    Fuzzy matches 'strShort' in 'strLong' and returns list of 
     tuples of (word,index)
     '''
-    for word,percent in process.extractBests(qs, (ls,), score_cutoff=threshold):
+    for word,percent in process.extractBests(strShort, (strLong,), score_cutoff=threshold):
         #print('fuzzy={}'.format(word))
-        for match in find_near_matches(qs, word, max_l_dist=5):
+        for match in find_near_matches(strShort, word, max_l_dist=5):
             match = word[match.start:match.end]
             #print('match={}'.format(match))
-            index = ls.find(match)
+            index = strLong.find(match)
             yield (match,index,percent)
 
     #large_string = "thelargemanhatanproject is a great project in themanhattincity"
@@ -44,4 +47,16 @@ def fuzzySearch(qs, ls, threshold):
     #for gen1 in gen:
     #    print(gen1)
 
+def fuzzySearch2(strShort, strLong, threshold):
+    """
+    Similar to fuzzySearch but with fuzzywuzzy
+
+    Does not return index. Just constant -1
+    """
+
+    hitrate = fuzz.partial_ratio(strShort,strLong)     # shorter n-substring against
+                                                # all other n-substrings
+
+    if hitrate >= threshold:
+        yield (strShort,-1,hitrate)
 
